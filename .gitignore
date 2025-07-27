@@ -1,0 +1,78 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments (CRITICAL!)
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# MLflow
+mlruns/
+mlartifacts/
+.mlflow/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Docker
+.dockerignore
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Database
+*.db
+*.sqlite3
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Large files that caused the issue
+*.dll
+*.exe
+*.so.*
+*.dylib
+
+# Airflow
+airflow.db
+airflow-webserver.pid
+standalone_admin_password.txt
+
+# DVC
+.dvc/cache
