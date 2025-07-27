@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/hypem/Documents/LEARNING/CAREER/AI%20ENGINEER/MLFlowStarter/2-DLMLFLOW/mlruns/339770722573138678/models/m-a760acffa0734ca995bd4f5ad2d33555/artifacts
+creation_timestamp: 1753093496599
+experiment_id: '339770722573138678'
+last_updated_timestamp: 1753093506544
+model_id: m-a760acffa0734ca995bd4f5ad2d33555
+model_type: null
+name: model
+source_run_id: 1d583bdc0e574b81a96270a6153a3099
+status: 2
+status_message: null

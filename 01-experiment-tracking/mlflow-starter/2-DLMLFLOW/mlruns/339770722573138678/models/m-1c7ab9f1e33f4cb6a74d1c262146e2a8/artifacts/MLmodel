@@ -1,0 +1,28 @@
+artifact_path: file:///c:/Users/hypem/Documents/LEARNING/CAREER/AI%20ENGINEER/MLFlowStarter/2-DLMLFLOW/mlruns/339770722573138678/models/m-1c7ab9f1e33f4cb6a74d1c262146e2a8/artifacts
+flavors:
+  python_function:
+    data: data
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.tensorflow
+    python_version: 3.11.9
+  tensorflow:
+    code: null
+    data: data
+    keras_version: 2.19.0
+    model_type: keras
+    save_format: tf
+is_signature_from_type_hint: false
+mlflow_version: 3.1.1
+model_id: m-1c7ab9f1e33f4cb6a74d1c262146e2a8
+model_size_bytes: 28774
+model_uuid: m-1c7ab9f1e33f4cb6a74d1c262146e2a8
+prompts: null
+run_id: 98f7a2aeb5cc424bba5b8d116b2d72e7
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1, 11]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-07-21 10:24:40.818129'

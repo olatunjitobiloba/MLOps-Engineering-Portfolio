@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/299543711427251473/3f775c13b7ef49d3be2168e9fc340a2a/artifacts
+end_time: 1753031751242
+entry_point_name: ''
+experiment_id: '299543711427251473'
+lifecycle_stage: active
+run_id: 3f775c13b7ef49d3be2168e9fc340a2a
+run_name: fun-owl-867
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753031745839
+status: 3
+tags: []
+user_id: hypem

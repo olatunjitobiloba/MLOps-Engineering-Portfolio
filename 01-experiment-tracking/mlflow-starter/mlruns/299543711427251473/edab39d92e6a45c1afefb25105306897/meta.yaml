@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/299543711427251473/edab39d92e6a45c1afefb25105306897/artifacts
+end_time: 1753031741036
+entry_point_name: ''
+experiment_id: '299543711427251473'
+lifecycle_stage: active
+run_id: edab39d92e6a45c1afefb25105306897
+run_name: victorious-stoat-30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753031736565
+status: 3
+tags: []
+user_id: hypem

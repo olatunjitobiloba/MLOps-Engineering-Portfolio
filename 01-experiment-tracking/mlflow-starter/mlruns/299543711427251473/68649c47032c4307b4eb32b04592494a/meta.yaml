@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/299543711427251473/68649c47032c4307b4eb32b04592494a/artifacts
+end_time: 1753018998008
+entry_point_name: ''
+experiment_id: '299543711427251473'
+lifecycle_stage: active
+run_id: 68649c47032c4307b4eb32b04592494a
+run_name: sneaky-fox-895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753018991693
+status: 3
+tags: []
+user_id: hypem

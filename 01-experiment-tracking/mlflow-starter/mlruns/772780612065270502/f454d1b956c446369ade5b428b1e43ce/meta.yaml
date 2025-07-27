@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/hypem/Documents/LEARNING/CAREER/AI ENGINEER/MLFlowStarter/mlruns/772780612065270502/f454d1b956c446369ade5b428b1e43ce/artifacts
+end_time: 1752939086554
+entry_point_name: ''
+experiment_id: '772780612065270502'
+lifecycle_stage: active
+run_id: f454d1b956c446369ade5b428b1e43ce
+run_name: efficient-elk-507
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752939086406
+status: 3
+tags: []
+user_id: hypem
