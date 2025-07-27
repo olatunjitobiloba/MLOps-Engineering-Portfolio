@@ -29,16 +29,23 @@ env.bak/
 venv.bak/
 .venv/
 
-# MLflow
+# MLflow (CRITICAL!)
 mlruns/
 mlartifacts/
 .mlflow/
+*.pkl
+*.joblib
+*.model
+
+# Large files that caused issues
+*.dll
+*.exe
+*.so.*
+*.dylib
+*.whl
 
 # Jupyter Notebook
 .ipynb_checkpoints
-
-# Docker
-.dockerignore
 
 # IDE
 .vscode/
@@ -53,6 +60,7 @@ Thumbs.db
 # Logs
 *.log
 logs/
+app*.log
 
 # Database
 *.db
@@ -63,11 +71,8 @@ logs/
 .env.local
 .env.production
 
-# Large files that caused the issue
-*.dll
-*.exe
-*.so.*
-*.dylib
+# Docker
+.dockerignore
 
 # Airflow
 airflow.db
