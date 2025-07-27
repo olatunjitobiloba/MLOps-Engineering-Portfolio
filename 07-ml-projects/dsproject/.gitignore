@@ -1,0 +1,39 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+.env/
+ENV/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.vscode/settings.json
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+mlruns/
+# MLflow - CRITICAL!
+mlruns/
+mlflow.db
+.mlflow/
+
+# Models & Data
+models/
+data/
+*.pkl
+*.h5
+*.joblib
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
